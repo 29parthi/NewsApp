@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>01CB07CE-0442-4F9D-8B5F-8A8F7311C9B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01CB07CE-0442-4F9D-8B5F-8A8F7311C9B9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project NewsApp with scheme NewsApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569862169.826689</real>
+			<key>timeStoppedRecording</key>
+			<real>569862239.38440597</real>
+			<key>title</key>
+			<string>Building project NewsApp with scheme NewsApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>01CB07CE-0442-4F9D-8B5F-8A8F7311C9B9</string>
+		</dict>
+		<key>BC9FDC62-859C-4A14-874D-8258E8D86F9D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC9FDC62-859C-4A14-874D-8258E8D86F9D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>NewsApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NewsApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project NewsApp with scheme NewsApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569862405.24542105</real>
+			<key>timeStoppedRecording</key>
+			<real>569862417.78434706</real>
+			<key>title</key>
+			<string>Building project NewsApp with scheme NewsApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BC9FDC62-859C-4A14-874D-8258E8D86F9D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
